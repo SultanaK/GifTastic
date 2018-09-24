@@ -1,0 +1,22 @@
+.btn {
+	margin: 6px;
+	background-color: teal;
+	color: #FFF;
+}
+
+.form-control {
+	width: 25%;
+}
+
+.searchForm {
+	margin: 6px;
+}
+
+.gifHolder {
+	display:inline-block;
+    margin: 6px;
+    padding: 8px;
+}
+body{
+    background-color: antiquewhite;
+}
